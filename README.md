@@ -1,4 +1,4 @@
-# Pure Luxe Cleaning System
+# Luxarie cleaning solutions 
 
 Where Clean Meets Luxury
 
