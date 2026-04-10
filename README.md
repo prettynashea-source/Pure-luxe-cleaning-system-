@@ -1570,4 +1570,141 @@ The system must always operate within defined rules.
 - Do not override business rules
 - Do not take control beyond permissions
 
-The system is designed to assist, not control.
+The system is designed to assist, not control. ## Indeed Hiring & Recruiting System
+
+The system should actively recruit independent cleaning contractors using Indeed and other platforms.
+
+### Job Posting Guidelines
+
+Job Title:
+
+Independent Cleaning Contractor – Flexible Work
+
+### Job Description:
+
+We are hiring reliable independent cleaners in the Portland and Gresham area.
+
+
+Requirements:
+- Must have your own vehicle
+- Must have your own cleaning supplies
+- Must be punctual and reliable
+
+- Must be able to follow instructions
+- Must communicate clearly
+
+What We Offer:
+- Flexible schedule
+- Consistent job opportunities
+- Weekly pay (Fridays)
+- Performance-based priority for jobs
+
+---
+
+## Application Screening Process
+
+All applicants must be screened before being added to the system.
+
+Collect:
+- Name
+- Phone number
+
+- Areas they serve
+- Availability
+- Experience level
+- Confirmation of vehicle
+- Confirmation of supplies
+
+---
+
+## Interview Message Script
+
+Hi! Thanks for applying to Pure Luxe Cleaning 😊
+
+Before we move forward, can you confirm:
+• Do you have your own vehicle?
+• Do you have your own cleaning supplies?
+• What areas can you work in?
+• What is your availability?
+
+---
+
+## Hiring Decision Rules
+
+- Only accept applicants who meet ALL requirements
+- Prioritize experienced cleaners
+- Prioritize fast responders
+- Reject applicants without transportation or supplies
+
+---
+
+## Onboarding Process
+
+Once approved:
+
+- Add contractor to WhatsApp group
+- Explain job claiming system
+- Explain pay structure (60/40 split)
+- Explain rating system
+- Explain expectations and rules
+
+Contractor must confirm understanding before receiving jobs. ## Additional Recruiting Platforms
+
+The system should recruit contractors from multiple platforms to maintain a strong worker pool.
+
+### Craigslist Hiring System
+
+Platform: Craigslist (Portland, Oregon)
+
+Category:
+- Jobs → General Labor
+- Jobs → Domestic / Gigs
+
+### Posting Title:
+Independent Cleaning Contractor – Flexible Work (Weekly Pay)
+
+### Description:
+
+We are looking for reliable independent cleaners in the Portland and Gresham area.
+
+
+Requirements:
+- Must have your own vehicle
+- Must have your own cleaning supplies
+- Must be punctual and reliable
+- Must be able to communicate clearly
+
+
+What We Offer:
+- Flexible schedule
+- Consistent work opportunities
+- Weekly pay (Fridays)
+- Opportunity for more jobs based on performance
+
+To apply, text or email:
+[Your number or email]
+
+---
+
+## Craigslist Strategy
+
+- Post 1–2 times daily
+- Refresh or repost every 24–48 hours
+- Respond to applicants quickly
+- Move qualified applicants to WhatsApp group
+
+---
+
+## Additional Platforms
+
+The system should also recruit from:
+
+- Facebook groups (local job + cleaning groups)
+- Facebook Marketplace
+- Nextdoor (local neighborhoods)
+- Instagram outreach (optional)
+- Word of mouth referrals
+
+Goal:
+Always maintain a steady flow of new contractors.
+
