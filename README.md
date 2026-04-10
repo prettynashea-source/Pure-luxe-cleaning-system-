@@ -1776,3 +1776,18 @@ Address:
 Please make sure access is ready.
 
 Message me now for a quote 🧼✨
+
+## Business Name Update
+
+The business name has been updated.
+
+Previous name references should now be replaced with:
+
+**Luxarié Cleaning Solutions**
+
+All future customer communication, contractor communication, marketing content, hiring posts, dispatch messages, and business branding should use the updated business name:
+
+**Luxarié Cleaning Solutions**
+
+Do not use previous business names in active operations unless needed for internal reference only.
+
